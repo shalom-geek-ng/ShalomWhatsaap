@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.heading1{
+    width: 100%;
+    height: 100px;
+    background-color: 	#128C7E;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    
+}
+body{
+   background-color: red;
+}
